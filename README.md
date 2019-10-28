@@ -1,13 +1,12 @@
 # Hello-World
 Our first GitHub project
 
-![alt-text](https://cdn.mos.cms.futurecdn.net/rqoDpnCCrdpGFHM6qky3rS-650-80.jpg "My Frog")
-
 ## Goals
 * Branching
 * Pull requests
 * Merging
 * Committing
+* Pizza
 
 ---
 
